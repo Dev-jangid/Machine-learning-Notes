@@ -1,0 +1,50 @@
+Import-Module posh-git
+oh-my-posh init pwsh --config '~/mint.omp.json' | Invoke-Expression
+Import-Module posh-git
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\di4am0nd.omp.json" | Invoke-Expression            #  BEST And BETTER
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\easy-term.omp.json" | Invoke-Expression            #  BEST And BETTER    with env
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\json.omp.json" | Invoke-Expression                    # better   now
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\microverse-power.omp.json" | Invoke-Expression   ### better 
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\montys.omp.json" | Invoke-Expression            #  Better 
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\1_shell.omp.json" | Invoke-Expression            #     with env
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\Agnoster.omp.json" | Invoke-Expression            ## with Env     
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\night-owl.omp.json" | Invoke-Expression            # env
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\paradox.omp.json" | Invoke-Expression            # env           Simple and best
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\atomic.omp.json" | Invoke-Expression            # evn
+
+
+
+
+
+
+
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\blueish.omp.json" | Invoke-Expression
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\zash.omp.json" | Invoke-Expression
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\illusi0n.omp.json" | Invoke-Expression
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\wholespace.omp.json" | Invoke-Expression
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\the-unnamed.omp.json" | Invoke-Expression      # best 
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\sonicboom_dark.omp.json" | Invoke-Expression
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\neko.omp.json" | Invoke-Expression               # Cat
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\lightgreen.omp.json" | Invoke-Expression
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\half-life.omp.json" | Invoke-Expression            # ok
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\amro.omp.json" | Invoke-Expression  
+
+
+
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\honukai.omp.json" | Invoke-Expression            # k
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\if_tea.omp.json" | Invoke-Expression            # 
+# 
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\material.omp.json" | Invoke-Expression            # 
+
+# oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\multiverse-neon.omp.json" | Invoke-Expression            # 
+
+
+Import-Module syntax-highlighting
